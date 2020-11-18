@@ -1,0 +1,21 @@
+.bg-black
+{
+    background-color: black;
+}
+.font-div
+{
+    width: 30%;
+
+}
+img
+{
+    height: 100%;
+    width: 100%;
+}
+@media only screen and (min-width:1198px)
+{
+    .font-div
+    {
+        padding: 42.5px 0px!important;
+    }
+}
